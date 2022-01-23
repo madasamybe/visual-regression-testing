@@ -17,7 +17,7 @@
   "scripts": {
     "healthcheck": "npm run backstop:test",
     "start": "react-scripts start",
-    "start-server": "npm start --headless",
+    "start-server": "npm start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",

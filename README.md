@@ -2,6 +2,12 @@
 
 A visual regression test checks what the user will see after any code changes have been executed by comparing screenshots taken before and after code changes.
 
+## Step by step guide to setup visual regression
+
+Please check this article for setting up backstop configuration
+
+https://dev.to/madasamybe/visual-regression-testing-with-backstop-js-4i7i
+
 ## Steps to run this app
 
 * Clone the repository
