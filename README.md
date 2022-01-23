@@ -1,6 +1,6 @@
 # Visual regression testing with React and Backstop Js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A visual regression test checks what the user will see after any code changes have been executed by comparing screenshots taken before and after code changes.
 
 ## Steps to run this app
 
@@ -11,5 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to check visual changes
 
-* npm run backstop:test - This command will run visual regression and 
+* npm run backstop:test - Once changes are made, running this command will display the comparison of between old and new change as below.
+* npm run backstop:approve - If the changes are intentional, running this command will update the reference screenshot in the app.
+
+![Backstop report](docs/backstop-screenshot.png?raw=true "Backstop report")
 
