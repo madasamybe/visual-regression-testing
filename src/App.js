@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="login-form">
        <h1>Backstop visual regression testing...</h1>
-       <p>By Madasamy</p>
+       <p>By Madasamy Ponraj</p>
       </div>
     </div>
   );

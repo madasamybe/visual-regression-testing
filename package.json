@@ -15,8 +15,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "healthcheck": "npm run backstop:test",
     "start": "react-scripts start",
-    "start-server": "npm start",
+    "start-server": "npm start --headless",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
