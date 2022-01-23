@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0__0_phone.png",
-        "test": "../bitmaps_test/20220123-122319/backstop_default_BackstopJS_Homepage_0__0_phone.png",
+        "test": "../bitmaps_test/20220123-124144/backstop_default_BackstopJS_Homepage_0__0_phone.png",
         "selector": "",
         "fileName": "backstop_default_BackstopJS_Homepage_0__0_phone.png",
         "label": "BackstopJS Homepage",
@@ -22,7 +22,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0__1_tablet.png",
-        "test": "../bitmaps_test/20220123-122319/backstop_default_BackstopJS_Homepage_0__1_tablet.png",
+        "test": "../bitmaps_test/20220123-124144/backstop_default_BackstopJS_Homepage_0__1_tablet.png",
         "selector": "",
         "fileName": "backstop_default_BackstopJS_Homepage_0__1_tablet.png",
         "label": "BackstopJS Homepage",

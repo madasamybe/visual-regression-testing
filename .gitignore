@@ -4,3 +4,5 @@ build/
 node_modules/
 support/
 dist/
+backstop_data/bitmaps_test
+backstop_data/html_report
