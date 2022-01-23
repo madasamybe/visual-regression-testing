@@ -21,7 +21,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "reference": "backstop reference",
-    "backstop:test": "start-server-and-test start-server http://localhost:3000 reference"
+    "visual-test": "backstop test",
+    "backstop:test": "start-server-and-test start-server http://localhost:3000 visual-test"
   },
   "eslintConfig": {
     "extends": [
